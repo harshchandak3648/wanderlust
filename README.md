@@ -1,1 +1,1 @@
-# wanderlust
+# Wanderlust-My Travel Companion
